@@ -16,3 +16,4 @@
 | 4 | Programmers | Lv1 | [자릿수 더하기](./Programmers/Lv1_자릿수_더하기/) | Java |
 | 5 | Programmers | Lv1 | [자연수 뒤집어 배열로 만들기](./Programmers/Lv1_자연수_뒤집어_배열로_만들기/) | Java |
 | 6 | Programmers | Lv1 | [정수 내림차순으로 배치하기](./Programmers/Lv1_정수_내림차순으로_배치하기/) | Java |
+| 7 | Programmers | Lv1 | [정수 제곱근 판별](./Programmers/Lv1_정수_제곱근_판별/) | Java |
