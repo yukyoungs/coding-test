@@ -19,3 +19,4 @@
 | 7 | Programmers | Lv1 | [정수 제곱근 판별](./Programmers/Lv1_정수_제곱근_판별/) | Java |
 | 8 | Programmers | Lv1 | [짝수와 홀수](./Programmers/Lv1_짝수와_홀수/) | Java |
 | 9 | Programmers | Lv1 | [평균 구하기](./Programmers/Lv1_평균_구하기/) | Java |
+| 10 | Programmers | Lv1 | [하샤드 수](./Programmers/Lv1_하샤드_수/) | Java |
