@@ -21,3 +21,4 @@
 | 9 | Programmers | Lv1 | [평균 구하기](./Programmers/Lv1_평균_구하기/) | Java |
 | 10 | Programmers | Lv1 | [하샤드 수](./Programmers/Lv1_하샤드_수/) | Java |
 | 11 | Programmers | Lv2 | [게임 맵 최단거리](./Programmers/Lv2_게임_맵_최단거리/) | Java |
+| 12 | Programmers | Lv2 | [타겟 넘버](./Programmers/Lv2_타겟_넘버/) | Java |
